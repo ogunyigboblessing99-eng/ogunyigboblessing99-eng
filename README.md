@@ -6,9 +6,9 @@ A Passionate QA Tester | Detail-oriented | Continuous Learner
 I love ensuring software quality, exploring automation tools, and collaborating with teams to deliver reliable products.  
 
 Connect with me:  
-- [LinkedIn]: www.linkedin.com/in/adedoyin-ogunyigbo 
-- [Twitter]: https://x.com/OgunyigboB
-- [Portfolio]: https://github.com/ogunyigboblessing99-eng
+- [LinkedIn](https://www.linkedin.com/in/adedoyin-ogunyigbo) 
+- [Twitter](https://x.com/OgunyigboB)
+- [Portfolio](https://github.com/ogunyigboblessing99-eng)
 
 - 🔭 I’m currently working on manual testing and building my skills in test automation using Postman.
 - 🌱 I’m currently learning HTML, CSS AND JavaScript.
